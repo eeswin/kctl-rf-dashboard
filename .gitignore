@@ -1,0 +1,20 @@
+# Secrets
+.env
+
+# Virtual environments
+ekctl_env1/
+.venv/
+venv/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Streamlit
+.streamlit/secrets.toml
+
+# OS / Editor
+.DS_Store
+Thumbs.db
+.vscode/
+~$*.docx
